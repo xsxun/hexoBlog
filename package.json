@@ -16,10 +16,13 @@
     "onlyPublished": false
   },
   "scripts": {
-    "sync": "yuque-hexo sync",
+    "clean": "hexo clean",
     "clean:yuque": "yuque-hexo clean",
-    "deploy": "npm run sync && hexo clean && hexo g -d",
-    "dev": "hexo clean && hexo server"
+    "deploy": "yuque-hexo sync && hexo deploy",
+    "publish": "npm run clean && npm run deploy",
+    "dev": "hexo s",
+    "sync": "yuque-hexo sync",
+    "reset": "npm run clean:yuque && npm run sync"
   },
   "dependencies": {
     "gravatar": "^1.8.0",
