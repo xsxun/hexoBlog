@@ -21,6 +21,8 @@ Siamo un po'ironici questa mattina, o sbaglio?
 
 No, no, per carità!
 
+<!-- more -->
+
 Senti, lo so che non ti va di venire. L'ho già sentita la storia del Natale in famiglia che non ti piace, ma i miei ci tengono. È possibile che ogni anno dobbiamo fare le stesse discussioni?
 
 No, va bene, è solo che pensavo che stavolta avremmo festeggiato in maniera diversa!

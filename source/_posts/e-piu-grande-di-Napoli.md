@@ -1,6 +1,8 @@
 ---
 title: è più grande di Napoli
 date: 2018-12-24 00:12:00
+categories:
+- 课文
 tags:
 ---
 Pina: Ma cosa c'è da pensare ancora? È un ottimo posto di lavoro!
@@ -16,6 +18,8 @@ Pina: Beh, io direi Roma. È più grande di Napoli, ricca di bellissimi monument
 Andrea: Sì, ma è anche meno ospitale di Napoli.
 
 Pina: E di Milano cosa ne pensi? È una grande città, moderna, europea, vivace.
+
+<!-- more -->
 
 Andrea: Mah... Secondo me, è più frenetica che vivace. E poi mi mancherebbe il mare.
 

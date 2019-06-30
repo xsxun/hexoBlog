@@ -22,6 +22,8 @@ pigiama 睡衣
 
 versione 版本
 
+<!-- more -->
+
 raffreddato 得了感冒的,伤风的,着了凉的
 
 + Non può uscire perchè è raffreddato. 他不能出去,因为他感冒了。

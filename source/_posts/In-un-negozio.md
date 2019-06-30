@@ -20,6 +20,8 @@ tags: [意大利语,课文]
 \- Costa 69 euro e 90 centesimi, ma c'è uno sconto del 20%. Quindi,... 55 euro e 92.
 \- Perfetto! La prendo. Ecco a Lei!
 
+<!-- more -->
+
 ## In un negozio di calzature
 
 \- Buongiorno! Vorrei vedere quelle scarpe di pelle in vetrina.

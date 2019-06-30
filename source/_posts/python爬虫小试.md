@@ -1,6 +1,8 @@
 ---
 title: python爬虫小试
 date: 2018-07-28 16:53:34
+categories:
+- 技术
 tags: [python,爬虫,cookie]
 ---
 #### 缘起
@@ -10,6 +12,8 @@ tags: [python,爬虫,cookie]
 + 语言：Python 3
 + 编辑器：VS Code
 + 用到的包： `urllib`, `bs4`, `http.cookiejar`, `fake_useragent`
+
+<!-- more -->
 
 #### 重要步骤
 1. <b>先决条件</b>：在手机百度能够搜到本小说，并通过手机百度的入口，可以直接进入纵横手机网址的免订阅模式进行阅读。

@@ -21,6 +21,8 @@ tags: [意大利语,课文]
 
 *Vittorio*: Sì, ma dopo siamo usciti. Veramente io non volevo perché ogni mattina mi alzo alle 7... Sono rimasto perché insisteva tanto!
 
+<!-- more -->
+
 *Caldo*: Chi? Tua cugina?
 
 *Vittorio*: No, Claudia, una sua amica. Una ragazza bellissima che ho conosciuto irei sera.

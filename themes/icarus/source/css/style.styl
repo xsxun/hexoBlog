@@ -49,6 +49,10 @@ body, button, input, select, textarea
         &.is-sticky
             top: 1.5rem
 
+.tag
+    &.is-grey
+        background: #e7e7e7
+
 .card
     border-radius: 4px
     box-shadow: 0 4px 10px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1)
@@ -81,6 +85,7 @@ img.thumbnail
         align-items: stretch
         display: flex
         padding: 0
+        flex-shrink: 0
     .navbar-menu
         flex-grow: 1
         flex-shrink: 0
@@ -410,6 +415,31 @@ figure.highlight
         background: rgba(0, 0, 0, 0.5)
     &:hover .copy
         display: block
+
+/* ---------------------------------
+ *          Overflow Table
+ * --------------------------------- */
+.table-overflow
+    overflow-x: auto
+    table
+        width: auto!important
+        th
+            word-break: keep-all
+
+/* ---------------------------------
+ *            Fix Video
+ * --------------------------------- */
+.video-container
+    position: relative
+    padding-bottom: 56.25%
+    padding-top: 25px
+    height: 0
+    iframe
+        position: absolute
+        top: 0
+        left: 0
+        width: 100%
+        height: 100%
 
 /* ---------------------------------
  *        Fix Gist Snippet

@@ -22,6 +22,8 @@ Cladio: Scusami, me lo potevi dire prima, no? Perché non la chiami? Magari te l
 
 Lorenzo: Dici? Ok... credo di avere il suo numero. Comunque, grazie lo stesso.
 
+<!-- more -->
+
  ... lo stesso pomeriggio...
 
 Valeria: Pronto!

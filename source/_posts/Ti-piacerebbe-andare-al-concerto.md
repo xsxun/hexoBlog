@@ -21,6 +21,8 @@ Simone: Allora, ti spiego: un mio amico, Carlo, lavora per l'agenzia che organiz
 
 Angela: Che bello! Senti, potremmo trovarne uno anche per Silvia? Va matta per Vasco Rossi ma, purtroppo, non è riuscita a trovare un biglietto.
 
+<!-- more -->
+
 Simone: No, questo sarebbe troppo! Non gli posso chiedere un altro biglietto! Anche se è un amico, mi manderebbe a quel paese! E avrebbe pure ragione!
 
 Angela: Puoi sempre provare, no?

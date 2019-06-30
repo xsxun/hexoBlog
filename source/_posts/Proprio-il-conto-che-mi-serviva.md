@@ -18,6 +18,8 @@ Stefano: Eh, sì, hai ragione. È per questo che sei così contenta?
 
 Carla: Sono contenta perché credo di aver fatto la scelta giusta... almeno l'impiegata con cui ho parlato mi ha convinta. È un nuovo conto corrente bancario pensato apposta per gli studenti, ai quali offre molti vantaggi.
 
+<!-- more -->
+
 Stefano: Tipo?
 
 Carla: Prima di tutto mi hanno dato questo bancomat con il quale posso evitare le file in banca e fare operazioni per telefono e via Internet. E poi potrò usarlo anche come carta di credito in molti negozi e avrò sconti su libri, cd e anche vestiti!
