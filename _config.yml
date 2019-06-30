@@ -1,0 +1,26 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: xsxun
+language: en
+
+github: xsxun
+
+
+archive_generator:
+  per_page: 0  
+  yearly: false
+  monthly: false
+  daily: false
+
+# theme: anatole
+theme: icarus
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: git@github.com:xsxun/xsxun.github.io.git
+  branch: master
