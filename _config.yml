@@ -9,11 +9,11 @@ language: en
 github: xsxun
 
 
-archive_generator:
-  per_page: 0  
-  yearly: false
-  monthly: false
-  daily: false
+#archive_generator:
+#  per_page: 0  
+#  yearly: true
+#  monthly: false
+#  daily: false
 
 # theme: anatole
 theme: icarus
