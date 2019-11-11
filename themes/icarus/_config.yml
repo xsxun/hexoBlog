@@ -1,7 +1,9 @@
 # Version of the Icarus theme that is currently used
-version: 2.3.0
+version: 2.6.0
 # Path or URL to the website's icon
 favicon: /images/favicon.svg
+# Additional HTML meta tags in an array.
+meta: 
 # Path or URL to RSS atom.xml
 rss: 
 # Path or URL to the website's logo to be shown on the left of the navigation bar or footer
@@ -30,7 +32,7 @@ navbar:
         About: /about
     # Navigation bar links to be shown on the right
     links:
-        Download on GitHub:
+       Download on GitHub:
             icon: fab fa-github
             url: 'http://github.com/xsxun'
 # Footer section link settings
@@ -48,9 +50,15 @@ footer:
             url: 'https://github.com/ppoffice/hexo-theme-icarus'
 # Article display settings
 article:
-    # Code highlight theme
-    # https://github.com/highlightjs/highlight.js/tree/master/src/styles
-    highlight: atom-one-light
+    # Code highlight settings
+    highlight:
+        # Code highlight themes
+        # https://github.com/highlightjs/highlight.js/tree/master/src/styles
+        theme: atom-one-light
+        # Show code copying button
+        clipboard: true
+        # Default folding status of the code blocks. Can be "", "folded", "unfolded"
+        fold: unfolded
     # Whether to show article thumbnail images
     thumbnail: true
     # Whether to show estimate article reading time
@@ -72,29 +80,29 @@ comment:
     placeholder:  ~(≧▽≦)/~   # (optional) comment box placeholder text
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
-#donate:
-#    -
-#        # Donation entry name
-#        type: alipay
-#        # Qrcode image URL
-#        qrcode: ''
-#    -
-#        # Donation entry name
-#        type: wechat
-#        # Qrcode image URL
-#        qrcode: ''
-#    -
-#        # Donation entry name
-#        type: paypal
-#        # Paypal business ID or email address
-#        business: ''
-#        # Currency code
-#        currency_code: USD
-#    -
-#        # Donation entry name
-#        type: patreon
-#        # URL to the Patreon page
-#        url: ''
+donate:
+    -
+        # Donation entry name
+        type: alipay
+        # Qrcode image URL
+        qrcode: ''
+    -
+        # Donation entry name
+        type: wechat
+        # Qrcode image URL
+        qrcode: ''
+    -
+        # Donation entry name
+        type: paypal
+        # Paypal business ID or email address
+        business: ''
+        # Currency code
+        currency_code: USD
+    -
+        # Donation entry name
+        type: patreon
+        # URL to the Patreon page
+        url: ''
 # Share plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
@@ -126,7 +134,7 @@ widgets:
         # Title of the author to be shown in the profile widget
         author_title: Pure Life Outsider Preview
         # Author's current location to be shown in the profile widget
-        location: Shanghai
+        location: Milan
         # Path or URL to the avatar to be shown in the profile widget
         avatar: 
         # Email address for the Gravatar to be shown in the profile widget
@@ -134,7 +142,7 @@ widgets:
         # Whether to show avatar image rounded or square
         avatar_rounded: false
         # Path or URL for the follow button
-        follow_link: 'http://github.com/xsxun'
+        follow_link: 'https://github.com/xsxun'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
@@ -165,7 +173,7 @@ widgets:
         # Links to be shown in the links widget
         links:
             Hexo: 'https://hexo.io'
-#            PPOffice: 'https://github.com/ppoffice'
+            PPOffice: 'https://github.com/ppoffice'
     -
         # Widget name
         type: category
@@ -223,8 +231,6 @@ plugins:
         site_id: 
     # Show a loading progress bar at top of the page
     progressbar: true
-    # Show the copy button in the highlighted code area
-    clipboard: true
     # BuSuanZi site/page view counter
     # https://busuanzi.ibruce.info
     busuanzi: true

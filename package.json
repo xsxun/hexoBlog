@@ -9,11 +9,10 @@
     "baseUrl": "https://www.yuque.com/api/v2",
     "login": "xsxun",
     "token": "Uwmnt78z073qiEwliPHXjW4hprncODuik5wSnojn",
-    "repo": "Blog",
+    "repo": "vg48il",
     "mdNameFormat": "title",
     "adapter": "hexo",
-    "postPath": "source/_posts/yuque",
-    "onlyPublished": false
+    "postPath": "source/_posts/yuque"
   },
   "scripts": {
     "clean": "hexo clean",
@@ -41,8 +40,7 @@
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0"
   },
-   "devDependencies": {
-    "yuque-hexo": "^1.6.1"
+  "devDependencies": {
+    "yuque-hexo": "^1.6.2"
   }
 }
-
